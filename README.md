@@ -4,7 +4,7 @@ Here,s how to use this StudentsMarksPredictionAI
 
 2.Download scikit-learn by using 'pip install scikit-learn'
 
-3.Keep the model file in a folder you will be using it else it won,t work
+3.Movethe model file in a folder you will be using it else it won,t work
 
 4.Create an python file and write this code 
 
