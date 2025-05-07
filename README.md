@@ -16,6 +16,8 @@ print(model.predict([[2]]))
 
 In the predicting model part type the total hours that students have studied in for eg. [[9]]
 
+Ignore the warning when running this code
+
 
 
 
