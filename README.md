@@ -7,10 +7,14 @@ Here,s how to use this StudentsMarksPredictionAI
 3.Create an python file and write this code 
 
 import joblib
-#Load models joblib file
+
 model = joblib.load('StudentMarksPredAI.joblib')
-#Enter the study hours total
+
 print(model.predict([[2]]))
+
+In the predicting model part type the total hours that students have studied in for eg. [[9]]
+
+
 
 
 
