@@ -14,7 +14,7 @@ model = joblib.load('StudentMarksPredAI.joblib')
 
 print(model.predict([[2]]))
 
-In the predicting model part type the total hours that students have studied in for eg. [[9]]
+In the predicting model part type the total hours that students have studied in for eg. [[9]] output = [12.60135895]
 
 Ignore the warning when running this code
 
